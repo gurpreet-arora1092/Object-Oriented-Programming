@@ -47,7 +47,9 @@ Setter Methods:
 **Validation and Transformation:**
 
 Setters can include logic to validate input or transform the value before assigning it to the attribute.
- **Convention:**
+
+
+**Convention:**
 
     In many languages (like Java and C#), getters typically start with "get" followed by the property name (e.g.,  `getName()`), while setters start with "set" followed by the property name (e.g.,  `setName(value)`).
 
