@@ -74,6 +74,14 @@ ClassName  variablename  = new ClassName();
 
 new Keyword is here responsible to create a Object.
 
+new ClassName() // this is a function call. this is a Special function/method is called Constructor  which is used to initialize an Object or responsible to create an Object  when it is created .
+EveryProgramming language provide a default constructor  if and only if we don't create any consutructor.
+
+Default Constructor is Public and same name as a class name
+Constructor  never return a value.
+
+Once Programmer create any constructor  Default constructor is not provided by programming language.
+
 Now, variablename is a real entity called object that exists in memory.
 
 
